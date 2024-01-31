@@ -1,0 +1,15 @@
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/bin/Debug/net8.0/CATGAMEcodetesting
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/bin/Debug/net8.0/CATGAMEcodetesting.deps.json
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/bin/Debug/net8.0/CATGAMEcodetesting.runtimeconfig.json
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/bin/Debug/net8.0/CATGAMEcodetesting.dll
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/bin/Debug/net8.0/CATGAMEcodetesting.pdb
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/obj/Debug/net8.0/CATGAMEcodetesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/obj/Debug/net8.0/CATGAMEcodetesting.AssemblyInfoInputs.cache
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/obj/Debug/net8.0/CATGAMEcodetesting.AssemblyInfo.cs
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/obj/Debug/net8.0/CATGAMEcodetesting.csproj.CoreCompileInputs.cache
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/obj/Debug/net8.0/CATGAMEcodetesting.sourcelink.json
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/obj/Debug/net8.0/CATGAMEcodetesting.dll
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/obj/Debug/net8.0/refint/CATGAMEcodetesting.dll
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/obj/Debug/net8.0/CATGAMEcodetesting.pdb
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/obj/Debug/net8.0/CATGAMEcodetesting.genruntimeconfig.cache
+/Users/sa45/Documents/githubb/CATGAMEcodetesting/obj/Debug/net8.0/ref/CATGAMEcodetesting.dll
