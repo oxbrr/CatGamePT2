@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sa45/Documents/AAAA/AAAA.csproj",
+      "projectUniqueName": "/Users/sa45/Documents/githubb/AAAA/AAAA.csproj",
       "projectName": "AAAA",
-      "projectPath": "/Users/sa45/Documents/AAAA/AAAA.csproj",
+      "projectPath": "/Users/sa45/Documents/githubb/AAAA/AAAA.csproj",
       "packagesPath": "/Users/sa45/.nuget/packages/",
-      "outputPath": "/Users/sa45/Documents/AAAA/obj/",
+      "outputPath": "/Users/sa45/Documents/githubb/AAAA/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sa45/.nuget/NuGet/NuGet.Config"
